@@ -12,7 +12,7 @@
     JAVA, C#, Web (HTML, CSS, Javascript)
 
 <a href="https://github.com/Claudiocm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Claudiocm&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/?username=Claudiocm&show_icons=true&include_all_commits=true&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/Claudiocm">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Claudiocm&repo=Claudiocm" />
