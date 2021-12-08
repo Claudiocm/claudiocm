@@ -28,9 +28,10 @@
 </div>
 <br>
 ##Frameworks
-<div style="display" inline_block><br>
+<div style="display" inline_block>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 </div>
+<br>
 ## Banco de dados
 <div style="display" inline>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
@@ -40,8 +41,8 @@
 <br>
 ## Servidor de Aplicação
 <div style="display" inline>
-  <img align="center" alt="Tomcat">Tomcat
-  <img align="center" alt="GlassFish">GlassFish
+  <label align="center">Tomcat</label>
+  <label align="center">GlassFish</label>
 </div>
 <br>
 ## Contato
