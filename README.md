@@ -31,20 +31,23 @@
 ##Frameworks
 <div style="display" inline_block>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-  ### Spring Boot - Spring MVC - Spring Cloud
+   Spring Boot - Spring MVC - Spring Cloud
 </div>
 <br>
 ## Banco de dados
 <div style="display" inline>
   <img align="center" alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
+  <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
 </div>
+### Tools
+- Workbench
 <br>
 ## Servidor de Aplicação
 <div style="display" inline>
-  <label align="center">Tomcat</label>
-  <label align="center">GlassFish</label>
+  <label align="center"> Tomcat | </label>
+  <label align="center"> STS | </label>
+  <label align="center"> GlassFish </label>
 </div>
 <br>
 ## Contato
