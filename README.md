@@ -13,7 +13,7 @@
 </a>
 </div>
 <br>
-##Linguagens
+## Linguagens
 <div style="display" inline_block><br>
   <img align="center" alt="JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,7 +28,7 @@
   <img align="center" alt="Nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
 </div>
 <br>
-##Frameworks
+## Frameworks
 <div style="display" inline_block>
   <img align="center" alt="Spring Boot" height="30" width="40" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
    Spring Boot - Spring MVC - Spring Cloud
@@ -40,7 +40,8 @@
   <img align="center" alt="Postgre" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align="center" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">  
 </div>
-### Tools
+<br>
+## Tools
 - Workbench
 <br>
 ## Servidor de Aplicação
